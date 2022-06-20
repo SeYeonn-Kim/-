@@ -5,7 +5,7 @@
 # 개발 환경
 * Windows10
 * python 3.9
-* jpyter notebook
+* jupyter notebook
 
-# 세연's board
+# 센센's board
 * Go away ANNA
