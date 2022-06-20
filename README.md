@@ -8,4 +8,4 @@
 * jpyter notebook
 
 # 세연's board
-* 많이 보지 마세요.
+* Go away ANNA
